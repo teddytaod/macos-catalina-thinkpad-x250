@@ -3,7 +3,7 @@
 
 Known issue
 
-           The wireless network card and Little Red Riding Hood do not work, the solution, buy a supported network card or use a wired network card.
+           The wireless network card and Little Red Riding Hood do not work.
 
            The touchpad buttons are not working properly.
 
@@ -14,14 +14,14 @@ Installation suggestion
            
            Lilu 1.3.6 or higher
     
-Thank to
+Thanks to
 
     RehabMan https://github.com/RehabMan
    
     Janolan https://github.com/Janolan/
     
     
- I am NOT responsible for any damage or loss of the file, or any hardware damage。
+ # I am NOT responsible for any damage or loss of the file, or any hardware damage。
     
     
     
@@ -44,6 +44,6 @@ Thank to
    
    Janolan  https://github.com/Janolan/
    
-免责说明，本人不承担任何责任，如果文件损坏或丢失，或者任何硬件损坏。
+# 免责说明，本人不承担任何责任，如果文件损坏或丢失，或者任何硬件损坏。
    
 
