@@ -18,10 +18,10 @@ Thanks to
 
     RehabMan https://github.com/RehabMan
    
-    Janolan https://github.com/Janolan/
+    Janolan https://github.com/Janolan
     
     
- # I am NOT responsible for any damage or loss of the file, or any hardware damage。
+ ### I am NOT responsible for any damage or loss of the file, or any hardware damage。
     
     
     
@@ -42,8 +42,8 @@ Thanks to
 
    RehabMan https://github.com/RehabMan
    
-   Janolan  https://github.com/Janolan/
+   Janolan  https://github.com/Janolan
    
-# 免责说明，本人不承担任何责任，如果文件损坏或丢失，或者任何硬件损坏。
+### 免责说明，本人不承担任何责任，如果文件损坏或丢失，或者任何硬件损坏。
    
 
