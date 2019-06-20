@@ -13,6 +13,25 @@ Installation suggestion
            Clover BootLoader v2.4k_r4967 or higher
            
            Lilu 1.3.6 or higher
+           
+BIOS Settings （thinks to Janolan https://github.com/Janolan )
+
+      The BIOS must be properly configured prior to installing MacOS.
+
+      In Security menu, set the following settings:
+
+     Security > Security Chip: must be Disabled,
+     Memory Protection > Execution Prevention: must be Enabled,
+     Virtualization > Intel Virtualization Technology: must be Disabled,
+     Internal Device Access > Bottom Cover Tamper Detection: must be Disabled,
+     Anti-Theft > Current Setting: must be Disabled,
+     Anti-Theft > Computrace > Current Setting: must be Disabled,
+    Secure Boot > Secure Boot: must be Disabled.
+    In Startup menu, set the following options:
+
+    UEFI/Legacy Boot: Both,
+    UEFI/Legacy Priority: UEFI First,
+    CSM Support: Yes.
     
 Thanks to
 
@@ -37,6 +56,8 @@ Thanks to
    
     clover BootLoader v2.4k_r4967 或更高
     lilu 1.3.6 或更高
+    
+BIOS 设置 见英文
     
 感谢
 
