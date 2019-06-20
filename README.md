@@ -40,7 +40,7 @@ Thanks to
     Janolan https://github.com/Janolan
     
     
- ### I am NOT responsible for any damage or loss of the file, or any hardware damage。
+ ### I am NOT responsible for any damage or loss of the file, or any hardware damage.
     
     
     
