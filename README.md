@@ -9,14 +9,24 @@ Known issue
 
 Installation suggestion
    
-     Clover BootLoader v2.4k_r4967 or higher
-     Lilu 1.3.6 or higher
+           
+           Clover BootLoader v2.4k_r4967 or higher
+           
+           Lilu 1.3.6 or higher
     
 Thank to
 
     RehabMan https://github.com/RehabMan
    
     Janolan https://github.com/Janolan/
+    
+    
+ I am NOT responsible for any damage or loss of the file, or any hardware damage。
+    
+    
+    
+
+
 已知问题
 
     无线网卡和小红帽不工作，解决方法，购买支持的网卡或用有线网卡。
@@ -33,5 +43,7 @@ Thank to
    RehabMan https://github.com/RehabMan
    
    Janolan  https://github.com/Janolan/
+   
+免责说明，本人不承担任何责任，如果文件损坏或丢失，或者任何硬件损坏。
    
 
