@@ -1,6 +1,6 @@
 # Mac-Catalina-Thinkpad-x250 beta 2 
 
-
+[image]（ https://github.com/teddytaod/mac-catalina-thinkpad-x250/blob/master/mac%20os%2010.15%20beta2.png ）
 Known issue
 
            The wireless network card and Little Red Riding Hood do not work.
