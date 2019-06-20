@@ -1,0 +1,1 @@
+# mac-catalina-thinkpad-x250
