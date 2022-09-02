@@ -1,4 +1,6 @@
-#. update en https://github.com/teddytaod/mac-os-thinkpad-x250-T450-OpenCore-
+# update  https://github.com/teddytaod/mac-os-thinkpad-x250-T450-OpenCore-
+
+
 # Mac-Catalina-Thinkpad-x250 beta 2 
 
  
