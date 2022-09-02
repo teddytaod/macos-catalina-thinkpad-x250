@@ -1,4 +1,5 @@
 # update  https://github.com/teddytaod/mac-os-thinkpad-x250-T450-OpenCore-
+# download the newest efi go to https://github.com/teddytaod/mac-os-thinkpad-x250-T450-OpenCore-/releases
 
 
 # Mac-Catalina-Thinkpad-x250 beta 2 
